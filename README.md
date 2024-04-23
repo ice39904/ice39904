@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ice39904
 - 🌱 I’m currently learning  flutter and android studio.
-- ⚡ Fun fact: Earth is round.
+- ⚡ Fun fact: People Blink Less When They Use Computer 
 
 <!---
 ice39904/ice39904 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
